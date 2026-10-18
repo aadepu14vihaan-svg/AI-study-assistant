@@ -1,0 +1,6 @@
+{
+  "name": "Smart School Homework Planner",
+  "description": "Intelligent academic planner and student dashboard with assignment tracking, weekly scheduling, and course management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
